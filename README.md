@@ -2,7 +2,7 @@
 
 💻 Aspiring Software Engineer | Cloud Enthusiast | Full Stack Developer  
 🌐 Hyderabad, Telangana, India  
-📧 sagilibalajireddy@gmail.com  
+📧 balubalaji7095@gmail.com  
 📱 +91 7095131769  
 
 ---
