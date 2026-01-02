@@ -1,58 +1,65 @@
 ### Hi there 👋 I'm Sagili Balaji Reddy
 
-💻 Aspiring Software Engineer | Cloud Enthusiast | Full Stack Developer  
-🌐 Hyderabad, Telangana, India  
-📧 balubalaji7095@gmail.com  
+💻 Software Test Engineer | Backend & Cloud Enthusiast  
+🌐 Bangalore, India  
+📧 sagilibalajireddy@gmail.com  
 📱 +91 7095131769  
 
 ---
 
 ### 🧑‍💻 About Me
-I’m an aspiring software engineer with strong fundamentals in computer science and a growing passion for cloud technologies and full-stack development. Currently seeking opportunities to contribute to real-world tech innovations.
+I am a Software Test Engineer with strong fundamentals in computer science and hands-on experience in **backend development, automation, and cloud technologies**. Currently working at **Cisco**, contributing to distributed systems testing, debugging, build validation, and CI/CD pipelines. Interested in growing into backend and cloud-focused software development roles.
 
 ---
 
 ### 🛠️ Technologies & Tools
-- **Languages:** Java, Python, C/C++, JavaScript  
-- **Frontend:** HTML5, CSS3, React.js  
-- **Backend:** Node.js, Spring Boot  
+- **Languages:** Python, Java, SQL  
+- **Backend & APIs:** FastAPI, Flask, REST APIs  
+- **Web (Basic):** HTML, CSS, JavaScript  
 - **Databases:** MySQL, SQL  
-- **Cloud & DevOps:** AWS (EC2, S3, IAM), GitHub Actions, Docker (basic), Linux (Ubuntu)  
+- **Cloud & DevOps:** AWS (EC2, S3, IAM), CI/CD, GitHub Actions, Docker (basic), Linux  
 - **Version Control:** Git, GitHub  
-- **Testing Tools:** Postman, JUnit, Selenium (basic)  
-- **Other Tools:** VS Code, IntelliJ, Ubuntu CLI
+- **Testing & Automation:** Postman, PyTest, Selenium (basic), API & Functional Testing  
+- **Other Tools:** VS Code, Jira, Linux CLI  
 
 ---
 
 ### 💼 Projects
-**🔹 Drivers Activity Recognition and Alert System**  
-A real-time driver monitoring system using AI  
-Tech Stack: Python, OpenCV, TensorFlow, Flask, AWS (EC2), CNN
 
-**🔹 Patient Health Monitoring System**  
-A full-stack application for clinics to manage patient records securely  
-Tech Stack: Java, Spring Boot, MySQL, HTML/CSS, JavaScript, REST API
+**🔹 AI-Powered Test Automation Orchestrator (Cisco HackAIthon)**  
+A chatbot-driven automation platform for running pyATS regression jobs  
+**Tech Stack:** Python, pyATS, FastAPI, LLM, Regex/ML  
+- Built natural language to CLI command execution  
+- Implemented ML-based log monitoring and failure detection  
+- Integrated FastAPI UI and automated email reporting  
+
+**🔹 Driver Activity Recognition and Alert System**  
+A real-time driver monitoring system using computer vision  
+**Tech Stack:** Python, OpenCV, TensorFlow, Flask, AWS (EC2)  
+- Detects distraction and drowsiness patterns  
+- Generates alerts to improve road safety  
 
 ---
 
 ### 📜 Certifications
 - Salesforce AI Associate  
-- Microsoft MTA: Java & JavaScript  
-- HackerRank – Python  
-- AWS Cloud Virtual Internship (EC2, S3, IAM)
+- Microsoft MTA – Java & JavaScript  
+- DeepLearning.AI – Deep Learning & MLOps  
+- AWS Cloud Virtual Internship  
+- 225+ LeetCode Problems Solved  
 
 ---
 
 ### 📊 GitHub Stats
-![Sagili Balaji's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact)
+![Balaji's GitHub stats](https://github-readme-stats.vercel.app/api?username=Balaji7095&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Balaji7095&layout=compact)
 
 ---
 
 ### 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&link=https://linkedin.com/in/YOUR_PROFILE)](https://linkedin.com/in/YOUR_PROFILE)  
-[![LeetCode](https://img.shields.io/badge/-LeetCode-orange?style=flat-square&logo=leetcode&link=https://leetcode.com/YOUR_PROFILE)](https://leetcode.com/YOUR_PROFILE)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&link=https://linkedin.com/in/balaji-reddy-sagili-b3ab41229)](https://linkedin.com/in/balaji-reddy-sagili-b3ab41229)  
+[![LeetCode](https://img.shields.io/badge/-LeetCode-orange?style=flat-square&logo=leetcode&link=https://leetcode.com/)](https://leetcode.com/)
 
 ---
 
-_“Striving to transform ideas into code and code into solutions.”_
+_“Building reliable software through strong fundamentals, automation, and cloud technologies.”_
